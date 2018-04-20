@@ -1,7 +1,14 @@
 @charset "utf-8";
 /* CSS Document */
+html {
+	
+	background-image: url(geraradweg.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
 
-body {color:#000000;
+body {background-color:#ffffff;
+	color:#000000;
 	font-family:Verdana, Geneva, sans-serif;
 	}
 	
