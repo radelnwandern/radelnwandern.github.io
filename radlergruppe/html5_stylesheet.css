@@ -1,7 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
 
-body {font-family:Verdana, Geneva, sans-serif;
+body {background-color:transparent ;
+	color:#000000;
+	font-family:Verdana, Geneva, sans-serif;
 	margin:0px;}
 
 body a {color:#0066ff;}
